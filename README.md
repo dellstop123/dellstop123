@@ -1,5 +1,6 @@
-### Hi Folks! 👋
+### Hi Folks! 👋 I am Guneet Singh
 
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 **dellstop123/dellstop123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
