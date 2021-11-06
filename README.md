@@ -1,7 +1,5 @@
 ### Hi Folks! 👋 I am Guneet Singh
 
-<img align="right" alt="GIF" src="https://github.com/dellstop123/dellstop123/blob/main/20211106165619286637.png?raw=true" width="500" height="320" />
-
 ## I'm a Software Developer Engineer in Test!!
 
 - ✍ You can find my projects here [portfolio]
