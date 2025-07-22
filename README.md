@@ -59,7 +59,7 @@
 
 </details>
 
-[website]: https://myblogbook.xyz/
+[website]: https://ecommercepracticeportal.netlify.app/
 [instagram]: https://www.instagram.com/myblogbook_official/
 [linkedin]: https://www.linkedin.com/in/guneet-singh-709703182/
 [portfolio]: https://github.com/dellstop123
